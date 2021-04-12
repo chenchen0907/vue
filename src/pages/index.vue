@@ -30,7 +30,7 @@
                    return ele+1
                })
                let a = [...arr]
-            console.log('newArr',newArr)
+            console.log('123',newArr)
              console.log('a',a)
           }
         }
